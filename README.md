@@ -18,8 +18,14 @@ To run the video processing pipline,
 >> ./run.sh
 ```
 
-## Extended Running
+## Full Experiments
 This repository only contains data for one single experiment. However, a total of 19 experiments were conducted in Tuscan. To access the full stack of video footages, please go to [here](https://uofi.box.com/s/0xphjvaiekl8wldrwkypmb6yfzflwass).
 
-## Extended Dataset
+## Dataset
 The vehicle movement data generated using the script, combined with the simultaneous fuel rate measured from a OBD scanner, is publicly available [here](https://uofi.box.com/v/trafficwavedata).
+
+
+## Contact
++ Author: Fangyu Wu, Coordinated Science Laboratory, UIUC
++ Email: fwu10(at)illinois.edu
++ Web: fangyuwu.com
