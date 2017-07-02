@@ -21,7 +21,7 @@ To run the video processing pipline,
 ```
 
 ## Full Experiments
-This repository only contains data for one single experiment. However, a total of 9 experiments were conducted in Tuscan in July 23rd. To access the full stack of video footages, please go to [here](https://uofi.box.com/s/0xphjvaiekl8wldrwkypmb6yfzflwass).
+This repository only contains data for one single experiment. However, a total of eight experiments were conducted in Tuscan in July 23rd. To access the full stack of video footages, please go to [here](https://uofi.box.com/s/0xphjvaiekl8wldrwkypmb6yfzflwass).
 
 ## Dataset
 The vehicle movement data generated using the script, combined with the simultaneous fuel rate measured from a OBD scanner, is publicly available [here](https://uofi.box.com/v/trafficwavedata).
