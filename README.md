@@ -15,6 +15,7 @@ The shell script is tested in Linux environment has the following dependencies:
 
 To run the video processing pipline,
 ```
+>> wget https://uofi.box.com/s/h7i8f5kfqzvt29iwft4sjirqhhnvmx3y
 >> ./run.sh
 ```
 
